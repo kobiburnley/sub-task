@@ -1,0 +1,10 @@
+All tasks - 16
+  Setup e2e coverage - 8
+    Jenkins plugin - 4
+    Setup mock DB - 2
+    My Task 3 - 2
+  New company site - 8
+    New login page in React - 8
+      Setup new company theme - 3
+      Design controllers & view model - 2
+      Integrate forms library - 3
